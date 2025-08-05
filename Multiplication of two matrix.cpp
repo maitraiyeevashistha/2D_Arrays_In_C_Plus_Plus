@@ -1,3 +1,8 @@
+//EXPERIMENT-5
+// MAITRAIYEE VASHISTHA
+// 24070123057
+// ENTC A3
+
 #include <iostream>
 using namespace std;
 
@@ -49,3 +54,15 @@ int main() {
 
     return 0;
 }
+
+/* output :
+Enter number of rows and columns for Matrix 1: 2 2
+Enter number of rows and columns for Matrix 2: 2 2
+Enter elements of Matrix M1:
+1 2 3 4
+Enter elements of Matrix M2:
+1 2 3 4
+Resultant matrix M3:
+7 10 
+15 22 
+*/
