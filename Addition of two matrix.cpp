@@ -70,6 +70,7 @@ int main() {
              for(int j=0;j<c1;j++){
               cout<<sum[i][j]<<" ";
             }
+            cout<<endl;
         }
         cout<<endl;
     }
